@@ -1,81 +1,81 @@
 <div align="center">
-  <!-- Header / Hero Section -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-dummy-assets/master/assets/banner.png" alt="Organization Banner" width="100%" style="border-radius: 10px;" />
+  <!-- Server Hero / Banner -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-dummy-assets/master/assets/banner.png" alt="Discord Server Banner" width="100%" style="border-radius: 10px;" />
   
   <br /><br />
   
-  <h1>Welcome to Your Organization 🚀</h1>
-  <p><b>Building scalable infrastructure, modern web platforms, and open-source developer tools.</b></p>
+  <h1>Welcome to Our Discord Community 💬</h1>
+  <p><b>The official home for our community, events, discussions, and updates.</b></p>
 
-  <!-- Badges Grid -->
+  <!-- Live Server Stats Badges -->
   <p>
-    <a href="https://github.com/your-org"><img src="https://img.shields.io/github/followers/your-org?style=for-the-badge&color=007acc&labelColor=1e1e1e" alt="Followers"></a>
-    <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1e1e" alt="Discord"></a>
-    <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Live-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1e1e" alt="Website"></a>
+    <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1e1e1e" alt="Join Discord"></a>
+    <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/discord/1156890511601303572?style=for-the-badge&color=57F287&label=Online%20Members&labelColor=1e1e1e" alt="Online Members"></a>
+    <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/discord/1156890511601303572?style=for-the-badge&color=00b4d8&label=Total%20Members&labelColor=1e1e1e" alt="Total Members"></a>
   </p>
 </div>
 
 <hr />
 
 <!-- About Section -->
-<h2>📌 About Us</h2>
+<h2>📌 About Our Server</h2>
 <p>
-  We build next-generation software solutions designed for high performance, efficiency, and reliability. 
-  Our projects focus on automated workflow pipelines, server management platforms, and modular web applications.
+  Our Discord server brings together developers, creators, and tech enthusiasts. 
+  Whether you're looking for help, sharing your latest work, participating in community events, 
+  or hanging out in voice channels, everyone is welcome!
 </p>
 
-<!-- Tech Stack Grid (HTML Table for Clean Formatting) -->
-<h2>🛠️ Tech Stack & Ecosystem</h2>
+<!-- Server Features Grid -->
+<h2>✨ What We Offer</h2>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite" alt="Frontend Stack" />
+      <h3>💬 Active Chat</h3>
+      <p>Channels for tech discussions, help forums, feedback, and casual chat.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" alt="Backend Stack" />
+      <h3>🎉 Community Events</h3>
+      <p>Regular gaming sessions, developer voice huddles, and giveaways.</p>
     </td>
     <td width="34%" align="center">
-      <h3>DevOps & Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,ubuntu" alt="DevOps Stack" />
+      <h3>🛡️ Safe Space</h3>
+      <p>Dedicated staff ensuring a friendly, toxic-free environment for all.</p>
     </td>
   </tr>
 </table>
 
-<!-- Featured Projects Section -->
-<h2>🚀 Featured Repositories</h2>
+<!-- Server Guidelines / Rules -->
+<h2>📜 Community Rules</h2>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/your-org/project-one">⚡ Project One</a></h3>
-      <p>A high-performance API gateway and reverse proxy solution with automated SSL management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/your-org/project-two">🛡️ Project Two</a></h3>
-      <p>Real-time server monitoring dashboard and management console built for multi-node deployments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-18.0-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+    <td>
+      <ul>
+        <li><b>Be Respectful:</b> Treat all members with courtesy and kindness. No harassment, hate speech, or toxicity.</li>
+        <li><b>No Unsolicited DMs/Spam:</b> Do not self-promote or DM members without permission.</li>
+        <li><b>Use Appropriate Channels:</b> Keep discussions and media in their designated channels.</li>
+        <li><b>Follow Discord Terms of Service:</b> All activities must comply with the <a href="https://dis.gd/tos">Discord ToS</a>.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<!-- Callout Banner / Getting Started -->
+<br />
+
+<!-- Main Join Callout Banner -->
 <blockquote align="center">
-  💡 <b>Want to contribute?</b> Read our <a href="https://github.com/your-org/.github/blob/main/CONTRIBUTING.md">Contribution Guidelines</a> and check out open issues marked <code>good first issue</code>.
+  🚀 <b>Ready to get involved?</b><br />
+  Click below to join our Discord server and grab your roles!
+  <br /><br />
+  <a href="https://discord.gg/FvmzmHs8Pu">
+    <img src="https://img.shields.io/badge/Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect Button" />
+  </a>
 </blockquote>
 
 <br />
 
-<!-- Footer Section -->
+<!-- Footer -->
 <div align="center">
-  <sub>Built with ❤️ by the team at Your Organization • Follow us on <a href="https://x.com/your-handle">Twitter/X</a></sub>
+  <sub>Maintained by the Community Moderation Team • See you in chat!</sub>
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Server Hero / Banner -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-dummy-assets/master/assets/banner.png" alt="Era Hosting Banner" width="100%" style="border-radius: 12px;" />
+  <img src="./Era.png" alt="Era Hosting Banner" width="100%" style="border-radius: 12px;" />
   
   <br /><br />
 

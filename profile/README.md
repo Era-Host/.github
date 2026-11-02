@@ -1,18 +1,18 @@
 <div align="center">
-  <!-- Aura Glow Header Image -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-dummy-assets/master/assets/banner.png" alt="Hosting & Server Banner" width="100%" style="border-radius: 12px;" />
+  <!-- Server Hero / Banner -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-dummy-assets/master/assets/banner.png" alt="Era Hosting Banner" width="100%" style="border-radius: 12px;" />
   
   <br /><br />
 
-  <!-- Title with Aura Gradient Feel -->
+  <!-- Aura Title -->
   <h1>⚡ ERA HOSTING & INFRASTRUCTURE</h1>
   <p><b>High-Performance Game Server Hosting • Cloud Node Infrastructure • Developer Automation</b></p>
 
-  <!-- Live Server Stats Badges (Aura Theme Colors: Neon Purple, Cyan, Magenta) -->
+  <!-- Server Badges: Live Online Count + Fixed Total Member Badge -->
   <p>
     <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/badge/Discord-Join%20Community-7B2CBF?style=for-the-badge&logo=discord&logoColor=white&labelColor=10002B" alt="Join Discord"></a>
     <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/discord/1156890511601303572?style=for-the-badge&color=00F5D4&label=Online%20Members&labelColor=10002B" alt="Online Members"></a>
-    <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/discord/1156890511601303572?style=for-the-badge&color=F72585&label=Total%20Members&labelColor=10002B" alt="Total Members"></a>
+    <a href="https://discord.gg/FvmzmHs8Pu"><img src="https://img.shields.io/badge/Total%20Members-80+-F72585?style=for-the-badge&logo=discord&logoColor=white&labelColor=10002B" alt="Total Members"></a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@
 
 <br />
 
-<!-- Main Join Callout Banner with Glowing Callout -->
+<!-- Main Join Callout Banner -->
 <blockquote align="center" style="background-color: #10002B; border-left: 5px solid #00F5D4;">
   🔮 <b>Need server hosting, panel deployment, or tech help?</b><br />
   Join our Discord infrastructure hub and connect with our team!
